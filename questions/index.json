@@ -3892,7 +3892,7 @@
 	"id": 392,
         "difficulty": 2 ,
         "question": "Which is the smallest continent answer?",
-        "a": "Africa",
+        "a": "Africa", 
         "b": "Antarctica",
         "c": "Australia",
         "d": "South America",
