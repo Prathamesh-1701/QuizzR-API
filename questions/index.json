@@ -3886,5 +3886,16 @@
         "c": "Gobiidae",
         "d": "Stout infantfish",
         "answer": "b"
-    }
+    },
+
+{
+	"id": 392,
+        "difficulty": 2 ,
+        "question": "Which is the smallest continent answer?",
+        "a": "Africa",
+        "b": "Antarctica",
+        "c": "Australia",
+        "d": "South America",
+        "answer": "c"
+}
 ]
